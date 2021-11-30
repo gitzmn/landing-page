@@ -89,12 +89,13 @@ button {
 
 footer {
   background-color: #3882F6;
-  padding: 10px 3px;
+  padding: 10px 30px;
   border-radius: 5px;
   margin: 50px 300px;
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 5px;
 
 }
 .quote {
@@ -108,7 +109,7 @@ footer {
   color: #1F2937;
 }
 
-.f1 button {
+footer button {
   border: 2px solid #F9FAF8;
 
 }
